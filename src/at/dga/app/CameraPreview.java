@@ -1,8 +1,4 @@
-/*
- * Barebones implementation of displaying camera preview.
- *
- * Created by lisah0 on 2012-02-24
- */
+
 package at.dga.app;
 
 import android.content.Context;
